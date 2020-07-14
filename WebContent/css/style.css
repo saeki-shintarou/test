@@ -111,8 +111,12 @@ select {
     color: #eeeeee;
 }
 
+
+
+
 h1 a {
     color: #eeeeee;
+}
 }
 table#report_list th {
     font-weight: bold;
@@ -136,4 +140,7 @@ table#report_list .report_action {
 }
 pre {
     font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
+}
+h3 {
+    font-size: larger;
 }
